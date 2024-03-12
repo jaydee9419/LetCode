@@ -1,0 +1,7 @@
+Below are the challenges am facing in this application.
+--------------------------------------------------------
+1. testcase 007 (after closing window am unable to re call)
+2. testcase 009 (drag not working)
+3. testcase 011 (drag not working)
+4. testcase 016 (end date picker)
+5. testcase 020 (interaction with closed shadow DOM)
